@@ -337,6 +337,6 @@ Por último, pararemos la sesión
 spark.stop()
 ```
 
-### ¿Existe una relación entre las variables y si el usuario termina comprando? Propón una forma de encontrar la relación entre ellas.
+### ¿Existe una relación entre las variables y si el usuario termina comprando? 
 
 Podríamos estudiar patrones de comportamiento de los usuarios mediante series temporales, porque puede que los productos se compran más en una época u otra del año. Las series temporales se usan para estudiar la relación causal entre diversas variables que cambian con el tiempo y se influyen entre sí.
