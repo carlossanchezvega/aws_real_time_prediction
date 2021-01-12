@@ -1,11 +1,5 @@
 ## Carlos Sanchez Vega
 
-### Prueba de código
-
-Se ha optado por elegir pyspark para la resolución de la parte de código, por la eficiencia que presenta spark en el procesamiento masivo de datos
-
-### La tarea
-
 Nuestro cliente necesita recibir en un endpoint información sobre las visitas a las páginas de sus productos. El json con la información tendrá los siguientes campos:
 - user_id
 - date
