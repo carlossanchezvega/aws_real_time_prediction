@@ -130,7 +130,7 @@ ordersDF.orderBy("user_id").show(100)
 
 ### 1. Queremos calcular de un mes a otro cuanto ha variado el tráfico por producto (durante un año, por ejemplo).
 
-El primer punto de la resuloción del problema consistirá en contar el número de veces que se compra cada elemento , agrupado por mes (que es la columna "Date" es pa parte del String que hay desde el primer caracter hasta el 7)
+El primer punto de la resolución del problema consistirá en contar el número de veces que se compra cada elemento , agrupado por mes (que es la columna "Date" es la parte del String que hay desde el primer caracter hasta el 7)
 
 
 ```python
@@ -156,7 +156,7 @@ ordersDF1.show()
     
 
 
-Teniendo el dataframe anterior, podríamos calcular la difencia de veces que se ha comprado un elemento respecto al mes anterior
+Teniendo el dataframe anterior, podríamos calcular la diferencia de veces que se ha comprado un elemento respecto al mes anterior
 
 
 ```python
