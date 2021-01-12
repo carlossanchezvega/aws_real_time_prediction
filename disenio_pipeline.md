@@ -20,7 +20,7 @@ Se ha diseñado el pipeline de los dos casos de uso:
 ### Creación del modelo predictivo
 
 Suponemos que se parte de una situación inicial en la que la empresa posee su propio datawarehouse y los datos no están aún en la nube, por lo que habría que importar los datos a AWS .
-- Si el volumen de datos no es muy grande, se usará AWS Direct Connect (una conexión de red dedicada entre su red y una de las ubicaciones de AWS Direct Connect).
+- Si el volumen de datos no es muy grande, se usará AWS Direct Connect (una conexión de red dedicada entre nuestra red y una de las ubicaciones de AWS Direct Connect).
 - Si el volumen de datos es masivo, se usará AWS Snowball(es un servicio para migrar datos de forma masiva)
 
 Como destino de nuestro origen de datos, tendremos el bucket de S3, con los datos en crudo ("Raw") del warehouse en local.
