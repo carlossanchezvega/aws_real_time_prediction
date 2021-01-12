@@ -7,7 +7,7 @@ El motivo principal por el que elijo éste distribuidor cloud, en lo personal, e
 En cuanto a las ventajas de una migración de una arquitectura a un distribuidor cloud, podríamos citar las siguientes: 
   - Económicos: se paga únicamente por los recursos consumidos.
   - Disponibilidad y latencia: Amazon dispone de varias zonas regiones y zonas geográficas alrededor del mundo, lo que se traduce en una menor latencia y una mejor experiencia de usuario. 
-  - Seguridad: AWS ofrece numerosos servicios que protegen y refuerzan nuestras arquitecturas, garantizando una seguridad muy superior a cualquier infraestructura física.
+  - Seguridad: AWS ofrece numerosos servicios que protegen nuestras arquitecturas, garantizando así una seguridad muy superior a cualquier infraestructura física.
 
 
 ### Arquitectura
