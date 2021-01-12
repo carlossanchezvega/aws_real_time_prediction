@@ -2,7 +2,7 @@
 
 ### Prueba de diseño
 
-Para el desarrollo de ésta prueba se ha optado por elegir un entorno cloud, más concretamente Amazon Web Services. 
+Para el desarrollo de ésta arquitectura se ha optado por elegir un entorno cloud, más concretamente Amazon Web Services. 
 El motivo principal por el que elijo éste distribuidor cloud, en lo personal, es porque es el distribuidor con el que cuento con más experiencia.
 En cuanto a las ventajas de una migración de una arquitectura a un distribuidor cloud, podríamos citar las siguientes: 
   - Económicos: se paga únicamente por los recursos consumidos.
